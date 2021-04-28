@@ -14,6 +14,7 @@ Version 1 of the interface (or controller) is extremely simple in operation, des
 A few features I hope to add in the future are as follows.
 - Capability to adjust all parameters over a serial terminal, such as:
 - Call sign
+- Tail length
 - Polite ID function
 - ID inactivity timer
 - ID speed and pitch adjustment in words per minute (beta)
