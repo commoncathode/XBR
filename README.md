@@ -20,6 +20,7 @@ A few features I hope to add in the future are as follows.
 - ID speed and pitch adjustment in words per minute (beta)
 - Timeout timer length
 - Enable/disable repeater over serial
+- PTT and COR logic (active hi/lo)
 
 **Errors**
 
