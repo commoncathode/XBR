@@ -7,7 +7,7 @@ The main idea for this interface arose from the public service aspect of amateur
 
 **Operation**
 
-Version 1 of the interface (or controller) is extremely simple in operation, designed to simply pass radio traffic automatically between two transcievers. It is not capable of linking repeaters or connecting to AllStar/Echolink. There is an impolite ID function that transmits on both radios every 10 minutes, non-adjustable. The tail is 500mS, non-adjustable. The ID function may be suitable for most users, but please follow your local governance for amateur radio operation. As I am in the US, the controller includes an active-low contact for disabling the repeater remotely to comply with FCC Part 97 regulations.
+Version 1 of the interface (or controller) is extremely simple in operation, designed to simply pass radio traffic automatically between two transcievers. It is not capable of linking repeaters or connecting to AllStar/Echolink. There is an impolite ID function that transmits on both radios every 10 minutes, non-adjustable. The tail is 500mS, non-adjustable. The ID function may be suitable for most users, but please follow your local governance for amateur radio operation. As I am in the US, the controller includes an active-low contact for disabling the repeater remotely to comply with FCC Part 97 regulations. There are many features I wish to add, but the intent was to develop a working, robust interface that provided reliable, legal operation of a cross-band repeater system at a base level.
 
 **Revisions**
 
