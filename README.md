@@ -28,3 +28,5 @@ A few features I hope to add in the future are as follows.
 2) The ID transformer's input is not referenced to common. I suggest scratching off some soldermask on the bottom next to the pad and bridging one side to the GND pour.
 3) Impedance mismatch on the VHF port's mic circuit - just decoupled DC with a 4.7uF cap and jumped input to output in place of transformer TR2. This was an oddity with the radio I was using, so YMMV. 
 Please view the schematic file or PDF print for a complete list of errata. 
+
+Licensing is CC-BY-NC so please credit the author. Thanks!
