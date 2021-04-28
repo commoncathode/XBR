@@ -1,0 +1,76 @@
+Partlist exported from C:/Users/pcsth/Documents/Ham radio/XBR/xbr.sch at 2021-04-14 19:25:44
+
+Part        Value             Device                     Package         Description                                                     MF MPN OC_FARNELL OC_NEWARK TP_SIGNAL_NAME
++12V        LSP10             LSP10                      LSP10           SOLDER PAD drill 1.0 mm, distributor Buerklin, 12H555                                                     
+C1          0.1               C-USC0603                  C0603           CAPACITOR, American symbol                                                                                
+C2          4.7               C-USC0805                  C0805           CAPACITOR, American symbol                                                                                
+C3          0.1               C-USC0603                  C0603           CAPACITOR, American symbol                                                                                
+C4          0.1               C-USC0603                  C0603           CAPACITOR, American symbol                                                                                
+C5          0.1               C-USC0603                  C0603           CAPACITOR, American symbol                                                                                
+C6          4.7               C-USC0805                  C0805           CAPACITOR, American symbol                                                                                
+C7          4.7n              C-USC0603                  C0603           CAPACITOR, American symbol                                                                                
+C8          4.7n              C-USC0603                  C0603           CAPACITOR, American symbol                                                                                
+C9          4.7n              C-USC0603                  C0603           CAPACITOR, American symbol                                                                                
+C10         4.7               C-USC0805                  C0805           CAPACITOR, American symbol                                                                                
+D1          DIODE_POWERDI_123 DIODE_POWERDI_123          POWERDI_123                                                                                                               
+D2          DIODE_POWERDI_123 DIODE_POWERDI_123          POWERDI_123                                                                                                               
+EXT_DISABLE                   MA03-1                     MA03-1          PIN HEADER                                                             unknown    unknown                 
+F1          1A                R-US_R0603                 R0603           RESISTOR, American symbol                                                                                 
+FB1                           WE-CBF_0805                0805            SMD EMI Suppression Ferrite Beads                                                                         
+FB2                           WE-CBF_0805                0805            SMD EMI Suppression Ferrite Beads                                                                         
+FB3                           WE-CBF_0805                0805            SMD EMI Suppression Ferrite Beads                                                                         
+FB4                           WE-CBF_0805                0805            SMD EMI Suppression Ferrite Beads                                                                         
+FB5                           WE-CBF_0805                0805            SMD EMI Suppression Ferrite Beads                                                                         
+GND         LSP10             LSP10                      LSP10           SOLDER PAD drill 1.0 mm, distributor Buerklin, 12H555                                                     
+IC1         78L05F            78L05F                     SOT89           POSITOIV-VOLTAGE REGULATORS                                                                               
+J1          MINIDIN-6P        MINIDIN-6P                 KMDTX-HT-6S-BSC Kycon 6P Mini-DIN jack                                                                                    
+J2          MINIDIN-6P        MINIDIN-6P                 KMDTX-HT-6S-BSC Kycon 6P Mini-DIN jack                                                                                    
+LED1        GRN               LEDCHIPLED_0603            CHIPLED_0603    LED                                                                                                       
+LED2        RED               LEDCHIPLED_0805            CHIPLED_0805    LED                                                                                                       
+R1          10k               R-US_R0603                 R0603           RESISTOR, American symbol                                                                                 
+R2          100               R-US_R1206                 R1206           RESISTOR, American symbol                                                                                 
+R3          100               R-US_R1206                 R1206           RESISTOR, American symbol                                                                                 
+R4          100               R-US_R1206                 R1206           RESISTOR, American symbol                                                                                 
+R5          10k               R-US_R0603                 R0603           RESISTOR, American symbol                                                                                 
+R6          100k              R-US_R0603                 R0603           RESISTOR, American symbol                                                                                 
+R7          1k                R-US_R0603                 R0603           RESISTOR, American symbol                                                                                 
+R8          10k               R-US_R0603                 R0603           RESISTOR, American symbol                                                                                 
+R9          100k              R-US_R0603                 R0603           RESISTOR, American symbol                                                                                 
+R10         1k                R-US_R0603                 R0603           RESISTOR, American symbol                                                                                 
+R11         100k              R-US_R0603                 R0603           RESISTOR, American symbol                                                                                 
+R12         100               R-US_R1206                 R1206           RESISTOR, American symbol                                                                                 
+R13         10k               R-US_R0603                 R0603           RESISTOR, American symbol                                                                                 
+R14         100k              R-US_R0603                 R0603           RESISTOR, American symbol                                                                                 
+R15         1k                R-US_R0603                 R0603           RESISTOR, American symbol                                                                                 
+R16         10k               R-US_R0603                 R0603           RESISTOR, American symbol                                                                                 
+R17         100k              R-US_R0603                 R0603           RESISTOR, American symbol                                                                                 
+R18         1k                R-US_R0603                 R0603           RESISTOR, American symbol                                                                                 
+R19         1k                R-US_R0603                 R0603           RESISTOR, American symbol                                                                                 
+R20         100k              R-US_R0603                 R0603           RESISTOR, American symbol                                                                                 
+R21         10k               R-US_R0603                 R0603           RESISTOR, American symbol                                                                                 
+R22         10k               R-US_R0603                 R0603           RESISTOR, American symbol                                                                                 
+R24         1k                R-US_R0603                 R0603           RESISTOR, American symbol                                                                                 
+R29         10k               R-US_R0603                 R0603           RESISTOR, American symbol                                                                                 
+R30         1k                R-US_R0603                 R0603           RESISTOR, American symbol                                                                                 
+S1          SKHMPSE010        SKHMPSE010                 SKHMPXE010      6.2 X 6.5mm TACT Switch (SMD)                                                                             
+SERIAL                        MA04-1                     MA04-1          PIN HEADER                                                             unknown    unknown                 
+T1                            MMBT2222ALT1-NPN-SOT23-BEC SOT23-BEC       NPN Transistror                                                                                           
+T2                            MMBT3906LT1-PNP-SOT23-BEC  SOT23-BEC       PNP Transistror                                                                                           
+T3                            MMBT2222ALT1-NPN-SOT23-BEC SOT23-BEC       NPN Transistror                                                                                           
+T4                            MMBT3906LT1-PNP-SOT23-BEC  SOT23-BEC       PNP Transistror                                                                                           
+T5                            MMBT2222ALT1-NPN-SOT23-BEC SOT23-BEC       NPN Transistror                                                                                           
+TP1         TPPAD1-13         TPPAD1-13                  P1-13           Test pad                                                                                                  
+TP2         TPPAD1-13         TPPAD1-13                  P1-13           Test pad                                                                                                  
+TP3         TPPAD1-13         TPPAD1-13                  P1-13           Test pad                                                                                                  
+TP4         TPPAD1-13         TPPAD1-13                  P1-13           Test pad                                                                                                  
+TP5         TPPAD1-13         TPPAD1-13                  P1-13           Test pad                                                                                                  
+TP6         TPPAD1-13         TPPAD1-13                  P1-13           Test pad                                                                                                  
+TP7         TPPAD1-13         TPPAD1-13                  P1-13           Test pad                                                                                                  
+TR1         42TL001           42TL001                    42TL            Xicon Micro-Mini EI-12 Audio Transformers 42TL/42TC/42TM Series        unknown    unknown                 
+TR2         42TL001           42TL001                    42TL            Xicon Micro-Mini EI-12 Audio Transformers 42TL/42TC/42TM Series        unknown    unknown                 
+TR3         42TL001           42TL001                    42TL            Xicon Micro-Mini EI-12 Audio Transformers 42TL/42TC/42TM Series        unknown    unknown                 
+U$1         BDM_HEADER        BDM_HEADER                 2X03                                                                                                                      
+U$2         MC9S08SH          MC9S08SH                   PDIP-20                                                                                                                   
+VR1                           TRIM_US-B64Y               B64Y            POTENTIOMETER                                                                                             
+VR2                           TRIM_US-B64Y               B64Y            POTENTIOMETER                                                                                             
+VR3                           TRIM_US-B64Y               B64Y            POTENTIOMETER                                                                                             
