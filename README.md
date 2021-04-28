@@ -1,5 +1,5 @@
 # XBR
-The XBR is a cross-band repeater controller, intended for use with amateur radio transceivers. The radio ports are designed to work with the Yaesu FT-891 and Motorola XTL5000, but the circuitry is generic enough that, with some adjustment, it may very well work with a variety of radio transceivers.
+The XBR is a cross-band repeater controller, intended for use with amateur radio transceivers. The radio ports are designed to work with the Yaesu FT-891 and Motorola XTL5000, but the circuitry is generic enough that, with some adjustment, it may very well work with a variety of radio transceivers. The heart of the controller is a Freescale/NXP 8-bit microcontroller, the MC9S08SH8.
 
 **Background**
 
@@ -20,3 +20,10 @@ A few features I hope to add in the future are as follows.
 - ID speed and pitch adjustment in words per minute (beta)
 - Timeout timer length
 - Enable/disable repeater over serial
+
+**Errors**
+
+1) With the components installed as outlined in the BoM, the ID function does not correctly pass audio to the mic inputs. You get sort of a "thumping" instead of a sine wave at 440Hz. This may be due to a low output impedance of the transformer coupled with the 10k resistors on the output; I am in the process of testing and verifying a few different solutions. 
+2) The ID transformer's input is not referenced to common. I suggest scratching off some soldermask on the bottom next to the pad and bridging one side to the GND pour.
+3) Impedance mismatch on the VHF port's mic circuit - just decoupled DC with a 4.7uF cap and jumped input to output in place of transformer TR2. This was an oddity with the radio I was using, so YMMV. 
+Please view the schematic file or PDF print for a complete list of errata. 
